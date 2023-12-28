@@ -330,6 +330,7 @@ module.exports = {
             label: "NVIDIA Parabricks",
             items: [
                 "advanced_guides/parabricks/parabricks",
+                "advanced_guides/parabricks/parabricks_run",
             ],  
         },
 
